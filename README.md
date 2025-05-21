@@ -9,3 +9,5 @@ A transformation of your data and attempts to find out what features explain the
 ## Data : Breast Cancer Dataset From Sklearn
 ### Author - Parth Sharma
 ### Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
+### Email: Parthsharma2300@gmail.com
+⭐ If you found this helpful, consider giving it a star!
